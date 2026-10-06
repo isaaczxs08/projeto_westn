@@ -11,9 +11,9 @@
 Explicação de 2 a 3 linhas sobre a utilidade da aplicação, para quem ela foi feita e os objetivos principais.
 
 ### 🛠️ Tecnologias Utilizadas
-* **Linguagem:** Java 17 / Python 3.10
+* **Linguagem:** Java
 * **Framework:** Spring Boot / React
-* **Banco de Dados:** PostgreSQL
+* **Banco de Dados:** MySQL
 
 ---
 
